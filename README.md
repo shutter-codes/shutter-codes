@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naitik Sharma</h1>
-<h3 align="center">How about this: "Full-Stack Developer | Specializing in Scalable Solutions with React, Python, Spring Boot, and Node.js"</h3>
+<h3 align="center">"Full-Stack Developer | Specializing in Scalable Solutions with React, Python, Spring Boot, and Node.js"</h3>
 
 - 🌱 I’m currently learning **SpringBoot**
 
